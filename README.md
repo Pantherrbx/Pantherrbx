@@ -1,3 +1,20 @@
+
+
+
+<p align="center">
+  <span style="color:#6ea8fe; font-weight:600; font-size:22px;">
+    LLM's
+  </span>
+  &nbsp; • &nbsp;
+  <span style="color:#6ea8fe; font-weight:600; font-size:22px;">
+    RAG
+  </span>
+  &nbsp; • &nbsp;
+  <span style="color:#6ea8fe; font-weight:600; font-size:22px;">
+    Microsoft Fabric
+  </span>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
 <h3 align="center">Turning data into insights and ideas into intelligent solutions</h3>
