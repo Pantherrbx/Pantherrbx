@@ -40,6 +40,40 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
 
+<h2>🏆 Certifications</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Certificate</th>
+      <th>Issuer</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</td>
+      <td>Oracle</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Microsoft Certified: Fabric Data Engineer Associate</td>
+      <td>Microsoft</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Microsoft Certified: Azure Data Fundamentals</td>
+      <td>Microsoft</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Exploratory Data Analysis for Data Science with R Software</td>
+      <td>NPTEL / IIT Kanpur</td>
+      <td>2026</td>
+    </tr>
+  </tbody>
+</table>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
