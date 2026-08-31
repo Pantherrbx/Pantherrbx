@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Turning data into insights and ideas into intelligent solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pantherrbx&label=Profile%20views&color=0e75b6&style=flat" alt="pantherrbx" /> </p>
-
-
-
 
 # 💫 About Me:
 🔭 I’m currently working on Using AI/ML and Space Technology to Identify Manganese Reserves and Overcome Production Shortfalls.<br><br>🌱 I’m currently learning Deep Learning , Time Series Analysis , Big Data Computing & Data Mining<br><br>👨‍💻 All of my projects are available at shivamlabs.me<br><br>📫 Reach me at shiviam02@gmail.com<br><br>📄 Know about my experiences shivamlabs.me<br><br>⚡ Fun fact I enjoy finding patterns in both data and life.<br><br>
