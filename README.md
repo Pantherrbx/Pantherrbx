@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Using AI/ML and Space Technology to Identify Manganese Reserves and Overcome Production Shortfalls.<br><br>🌱 I’m currently learning Deep Learning , Time Series Analysis , Big Data Computing & Data Mining<br><br>👨‍💻 All of my projects are available at shivamlabs.me<br><br>📫 Reach me at shiviam02@gmail.com<br><br>📄 Know about my experiences shivamlabs.me<br><br>⚡ Fun fact I enjoy finding patterns in both data and life.<br><br>
+🔭 I’m currently working on Using AI/ML and Space Technology to Identify Manganese Reserves and Overcome Production Shortfalls.<br><br>🌱 I’m currently learning Deep Learning , Time Series Analysis , Big Data Computing & Data Mining<br><br>👨‍💻 All of my projects are available at [shivamlabs.me](https://shivamlabs.me/)<br><br>📫 Reach me at shiviam02@gmail.com<br><br>📄 Know about my experiences [shivamlabs.me](https://shivamlabs.me/)<br><br>⚡ Fun fact I enjoy finding patterns in both data and life.<br><br>
 
 <!-- Snake Game Repo View -->
 
