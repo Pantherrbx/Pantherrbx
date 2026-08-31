@@ -5,7 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
 <h3 align="center">Turning data into insights and ideas into intelligent solutions</h3>
 
-
 # 💫 About Me:
 🔭 I’m currently working on Using AI/ML and Space Technology to Identify Manganese Reserves and Overcome Production Shortfalls.<br><br>🌱 I’m currently learning Deep Learning , Time Series Analysis , Big Data Computing & Data Mining<br><br>👨‍💻 All of my projects are available at [shivamlabs.me](https://shivamlabs.me/)<br><br>📫 Reach me at shiviam02@gmail.com<br><br>📄 Know about my experiences [shivamlabs.me](https://shivamlabs.me/)<br><br>⚡ Fun fact I enjoy finding patterns in both data and life.<br><br>
 
@@ -14,6 +13,8 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
