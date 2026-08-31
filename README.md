@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam-kumar-b086842a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/shivamkumar020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamkumar020" height="30" width="40" /></a>
 <a href="https://instagram.com/pantherrbx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pantherrbx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/EMAdoZk0r5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam kumar" height="30" width="40" /></a>
+<a href="https://kaggle.com/shivamkumar020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamkumar020" height="30" width="40" /></a>
 </p>
 
 
