@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Git%20hub%20profile.png" width="100%">
+  <img src="./profile-banner.png" width="100%">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
