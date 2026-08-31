@@ -94,4 +94,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Pantherrbx&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="./ending-page.png" width="100%">
+</p>
